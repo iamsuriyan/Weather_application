@@ -14,7 +14,7 @@ A simple weather app using HTML, CSS, and JavaScript. Features include real-time
 * CSS
 * JavaScript
 * API
-Utilizes Weather API for data. Replace the placeholder with your API key.
+Utilizes Weather API for data.
 
 ## Contribution
 Feel free to contribute by forking the repo and submitting pull requests.
